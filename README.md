@@ -1,0 +1,2 @@
+# JavaPratik5_VucutKitleIndeksiHesaplama
+Bootcamp Programında Vücut Kitle İndeksini Hesapladık
